@@ -53,7 +53,7 @@ _____________________________________________________________________
 
 ### Functions:
 
-**Rep** – Used to replace all instances of a string with another string in a file.
+**rep** – Used to replace all instances of a string with another string in a file.
 
 *Usage:*  rep directory1 anotherdir testfile.txt
 
@@ -67,7 +67,7 @@ Changed to
 /usr/anotherdir/
 
 
-**Mkcd** – Make a directory and change into that directory
+**mkcd** – Make a directory and change into that directory
 
 *Usage:* mkcd newfolder
 
@@ -83,7 +83,7 @@ user@host:~/newfolder/#
 *Results:* 
 
 
-**X** – Extract archives without having to remember all of the commands.  Will build upon this as the need arises.
+**x** – Extract archives without having to remember all of the commands.  Will build upon this as the need arises.
 
 *Usage:*  x somearchive.tar.gz
 
