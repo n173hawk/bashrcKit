@@ -29,9 +29,6 @@ alias cobaltext='cd /opt/cobalt_strike_extension_kit'
 #Change git clone to just clone
 alias clone='git clone'
 
-#Change directories to c2 directory
-alias c2='cd /opt/c2/'
-
 #More often than not (for whatever reason) I type pythong when I mean to type python...this will allow my typo to still work
 alias pythong='python'
 
