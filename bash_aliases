@@ -36,6 +36,4 @@ alias pythong='python'
 alias search='apt search'
 alias cache='apt-cache search'
 
-#Taco Demo
-alias tacos='mkdir tacos'
 #############################END OF ALIASES#############################
