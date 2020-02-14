@@ -6,7 +6,7 @@ _____________________________________________________________________
 ## Instructions
 
 ### Script Installation
-Simply run setup.sh from this repository.
+Simply run setup.sh after cloning or downloading from this repository.
 _____________________________________________________________________
 ### Manual Installation
 
